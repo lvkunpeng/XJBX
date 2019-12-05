@@ -1,0 +1,23 @@
+{
+  "name": "XJBX",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvkunpeng/XJBX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvkunpeng/XJBX/issues"
+  },
+  "homepage": "https://github.com/lvkunpeng/XJBX#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
